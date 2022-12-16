@@ -28,3 +28,4 @@ net.floodlightcontroller.dhcpserver.DHCPServer
 net.floodlightcontroller.proxyarp.ARPProxy
 net.floodlightcontroller.forwarding.Clustering
 net.floodlightcontroller.statistics.StatisticsCollector
+net.floodlightcontroller.antiataques.AntiAtaques
